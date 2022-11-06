@@ -119,7 +119,7 @@ function App() {
                                             </p>
                                         ) : (
                                             <p>
-                                                You do not an NFT of this
+                                                You do not hold an NFT of this
                                                 collection.
                                             </p>
                                         )}
